@@ -20,10 +20,10 @@ This is a **Conversational Voice Controlled React News Application** built using
 - **Material UI** – UI components for styling
 
 ## System Design
-![System design](src\Image\systemDesign.png)
+![System design](./src/Image/systemDesign.png)
 
 ## ScreenShot
 
-![App Screenshot1](src\Image\appSS1.png)
-![App Screenshot2](src\Image\app2.png)
-![App Screenshot3](src\Image\app3.png)
+![App Screenshot1](./src/Image/appSS1.png)
+![App Screenshot2](./src/Image/app2.png)
+![App Screenshot3](./src/Image/app3.png)
